@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color:blue;
+    background-color: azure;
+}
+* {
+    background-color: wheat;
+}
+ul {
+    text-align: left;
+    font-size: large;
+    
+}
